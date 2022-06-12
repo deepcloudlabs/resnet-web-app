@@ -1,0 +1,12 @@
+pandas
+numpy
+keras
+Keras-Preprocessing
+Keras-Applications
+resnet
+tensorflow
+kaggle
+Pillow
+eventlet
+Flask
+flask-cors
