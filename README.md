@@ -1,2 +1,1 @@
-# resnet-web-app
-Web Application for RESNET
+# Web Application for RESNET
